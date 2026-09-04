@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.magnific.com/fotos-gratis/tecnologia-futurista-abstrata-com-formas-poligonais-em-fundo-azul-escuro-cenario-de-tecnologias-de-conexao-comunicacao-na-internet_493343-29989.jpg?semt=ais_hybrid&w=740&q=80" />
+<img src="[https://img.magnific.com/fotos-gratis/tecnologia-futurista-abstrata-com-formas-poligonais-em-fundo-azul-escuro-cenario-de-tecnologias-de-conexao-comunicacao-na-internet_493343-29989.jpg?semt=ais_hybrid&w=740&q=80](https://i.pinimg.com/736x/29/51/a8/2951a877d9a34db3a6dafa170f25d4f7.jpg)" />
 
 # 👋 Olá! Eu sou o Luis Otávio
 
