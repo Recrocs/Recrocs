@@ -105,13 +105,21 @@ Projetos utilizando **Arduino**, sensores, LEDs, displays, motores e outros comp
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Recrocs&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Recrocs&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🐍 Contribuições
+<div align="center">
+
+### 💡 "Transformando ideias em código."
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Recrocs&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 <div align="center">
 
