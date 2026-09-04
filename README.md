@@ -143,4 +143,19 @@ Projetos utilizando **Arduino**, sensores, LEDs, displays, motores e outros comp
 
 <img src="https://komarev.com/ghpvc/?username=Recrocs&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
+<div align="center">
+
+📊 Estatísticas do GitHub
+
+<a href="https://github.com/Recrocs">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Recrocs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Recrocs&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</a>
+
 </div>
+
+</div>
+
