@@ -57,6 +57,85 @@ const luis = {
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=Recrocs&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🏭 Just in Time
+
+Sistema Full Stack para gestão da produção e estoque de produtos em MDF.
+
+`HTML` `CSS` `JavaScript` `Node.js` `Express` `MySQL`
+
+### ⛽ Abastece+
+
+Aplicação para gerenciamento de abastecimentos de veículos.
+
+`Flutter` `Dart`
+
+### 🚶 Caminhadas
+
+Aplicativo para registro de caminhadas.
+
+`Flutter` `Dart`
+
+### 🤖 Projetos IoT
+
+Projetos utilizando Arduino, sensores, LEDs, displays e motores.
+
+`Arduino` `C++` `IoT`
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Recrocs&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Recrocs/Recrocs/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://github.com/Recrocs">
+
+<img src="https://img.shields.io/badge/GitHub-RECROCS-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<br><br>
+
+💡 <strong>"Transformando ideias em código."</strong>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Recrocs&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+---
+
+## 🔥 Streak
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=Recrocs&theme=tokyonight&hide_border=true" />
 
 </div>
