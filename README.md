@@ -1,6 +1,6 @@
 <div align="center">
 
-![Estatísticas do GitHub](https://vercel.app)
+![Recrocs](https://vercel.app)
 
 
 # 👋 Olá! Eu sou o Luis Otávio
