@@ -43,18 +43,6 @@ const luis = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Recrocs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Recrocs&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -104,16 +92,6 @@ Projetos utilizando **Arduino**, sensores, LEDs, displays, motores e outros comp
 **Tecnologias:**
 
 `Arduino` `C++` `IoT`
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Recrocs&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
 
 ---
 
