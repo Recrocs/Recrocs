@@ -1,7 +1,6 @@
 <div align="center">
 
-![Recrocs](https://vercel.app)
-
+<img src="https://img.magnific.com/fotos-gratis/tecnologia-futurista-abstrata-com-formas-poligonais-em-fundo-azul-escuro-cenario-de-tecnologias-de-conexao-comunicacao-na-internet_493343-29989.jpg?semt=ais_hybrid&w=740&q=80" />
 
 # 👋 Olá! Eu sou o Luis Otávio
 
