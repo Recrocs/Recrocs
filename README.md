@@ -41,11 +41,13 @@ const luis = {
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Recrocs&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.shion.dev/api?username=Recrocs&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Recrocs&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Recrocs&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -90,13 +92,6 @@ Projetos utilizando **Arduino**, sensores, LEDs, displays, motores e outros comp
 **Tecnologias:**
 
 `Arduino` `C++` `IoT`
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Recrocs&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Recrocs&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Recrocs&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
