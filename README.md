@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://pbs.twimg.com/profile_images/1693640169075699713/Fqg9oz8v_400x400.jpg" />
-
 # 👋 Olá! Eu sou o Luis Otávio
 
 ### 💻 Desenvolvedor em formação • 🎓 Estudante de Desenvolvimento de Sistemas
@@ -92,6 +90,13 @@ Projetos utilizando **Arduino**, sensores, LEDs, displays, motores e outros comp
 **Tecnologias:**
 
 `Arduino` `C++` `IoT`
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Recrocs&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Recrocs&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Recrocs&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
